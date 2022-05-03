@@ -1,0 +1,19 @@
+.responsive {
+	width: auto;
+	height: auto;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#main {
+	text-align: center; max-width: 800px;
+}
+
+#tribute-info {
+	text-align: justify;
+}
